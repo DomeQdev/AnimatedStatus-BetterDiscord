@@ -1,4 +1,4 @@
-//META{"name":"AnimatedStatus","authorId":"668425648112664606","invite":"qGzN7nk","donate":"https://www.paypal.me/FriendsZ","website":"https://domeq.dev/"}*// 
+//META{"name":"AnimatedStatus","authorId":"714550610489508050","invite":"netflix","donate":"https://domeq.dev/donate","website":"https://domeq.dev/"}*// 
 
 
 class AnimatedStatus {
