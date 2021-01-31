@@ -1,4 +1,4 @@
-//META{"name":"AnimatedStatus","authorId":"714550610489508050","invite":"8jQP52j","donate":"https://anyialt.xyz/donate","website":"https://domeq.dev/"}*// 
+//META{"name":"AnimatedStatus","authorId":"714550610489508050","invite":"7BeDqdRFtE","donate":"https://antialt.xyz/donate","website":"https://discord4.fun"}*// 
 
 
 class AnimatedStatus {
